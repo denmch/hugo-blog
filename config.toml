@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Den McHenry"
+theme = "ananke"
+
+[params]
+    featured_image = "images/apoc-header.jpg"
