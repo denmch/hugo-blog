@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://denmch.github.io/categories/</loc>
+    <loc>//denmch.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://denmch.github.io/</loc>
+    <loc>//denmch.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://denmch.github.io/tags/</loc>
+    <loc>//denmch.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
