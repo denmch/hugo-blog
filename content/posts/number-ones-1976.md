@@ -1,7 +1,7 @@
 ---
 title: "Number Ones — 1976"
 date: 2018-01-08T20:14:46-08:00
-draft: true
+draft: false
 featured_image: /images/radio-ethiopia-1976.jpg
 header_style: "background-position: center 75%;"
 description: "Radio Ethiopia by the Patti Smith Group was the best album of the bicentennial, baby!"

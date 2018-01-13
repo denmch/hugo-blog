@@ -1,7 +1,7 @@
 ---
 title: "An Acrostic Movie List"
 date: 2018-01-07T16:03:14-08:00
-draft: true
+draft: false
 featured_image: /images/night-of-the-living-dead.jpg
 header_style: "background-position: center;"
 description: "My name spells trouble, and also a pretty great collection of movies."
