@@ -4,4 +4,14 @@ title = "Den McHenry"
 theme = "ananke"
 
 [params]
-    featured_image = "images/apoc-header.jpg"
+    featured_image = "images/apoc-header-bw.jpg"
+    description = "Web Developer. Cartoonist. Dad of the Year."
+    header_style = ""
+
+    twitter = "https://twitter.com/denmch"
+    github = "https://github.com/denmch"
+    codepen = "https://codepen.io/denmch"
+    linkedin = "https://www.linkedin.com/in/denmch/"
+    stackoverflow = "https://stackoverflow.com/users/2953245/denmch"
+    medium = "https://medium.com/@denmch"
+    spotify = "https://open.spotify.com/user/dmmchenry"

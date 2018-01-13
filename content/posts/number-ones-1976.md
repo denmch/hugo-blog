@@ -2,7 +2,9 @@
 title: "Number Ones — 1976"
 date: 2018-01-08T20:14:46-08:00
 draft: true
-featured_image: /images/radio-ethiopia.jpg
+featured_image: /images/radio-ethiopia-1976.jpg
+header_style: "background-position: center 75%;"
+description: "Radio Ethiopia by the Patti Smith Group was the best album of the bicentennial, baby!"
 ---
 
 Here's a rarity: something good that came out of Twitter. A while back somebody was tweeting about the best albums of their lifetime, one for each year they've been alive. I've been thinking about for probably a few months by now, and it's been a long series of tough choices, but it's also been rewarding and helped me to discover things I can't believe I ever lived without.
@@ -20,4 +22,6 @@ And *Radio Ethiopia* is a weird album in a couple of ways. It's variously descri
 
 One song puts to rest any claims of selling out, and it's one that feels the most commercial, till it eats itself alive and births something bizarre. Poppies opens as just the kind of rolling, jazzy number you'd expect from an album produced by a New York band in the mid-70s. But as it approaches the mid-point, competing versions of Patti Smith take turns stealing the song from each other, chanting, wailing, rambling, evocative of Bob Dylan, Jim Morrison and maybe even a little Leonard Cohen. It's been called schizophrenic, but it fucks me up how perfect it is in the end.
 
-<iframe src="https://open.spotify.com/embed/album/7jmAoRWQ9qUXtRXUOW2agu" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<figure>
+    <iframe src="https://open.spotify.com/embed/album/7jmAoRWQ9qUXtRXUOW2agu" width="300" height="500" frameborder="0" allowtransparency="true"></iframe>
+</figure>
