@@ -1,4 +1,4 @@
-baseURL = "//denmch.github.io/"
+baseURL = "https://denmch.github.io"
 languageCode = "en-us"
 title = "Den McHenry"
 theme = "ananke"
