@@ -3,17 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//denmch.github.io/categories/</loc>
+    <loc>https://denmch.github.io/posts/number-ones-1976/</loc>
+    <lastmod>2018-01-08T20:14:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://denmch.github.io/posts/an-acrostic-movie-list/</loc>
+    <lastmod>2018-01-07T16:03:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://denmch.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//denmch.github.io/</loc>
+    <loc>https://denmch.github.io/</loc>
+    <lastmod>2018-01-08T20:14:46-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//denmch.github.io/tags/</loc>
+    <loc>https://denmch.github.io/posts/</loc>
+    <lastmod>2018-01-08T20:14:46-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://denmch.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
