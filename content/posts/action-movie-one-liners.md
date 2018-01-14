@@ -2,7 +2,6 @@
 title: "Action Movie One Liners"
 date: 2015-06-20T15:28:01-08:00
 showthedate: true
-draft: true
 ---
 
 When you're the hero of an action movie, you're going to find yourself killing — or at least subduing — people in increasingly novel ways. And you can't do that unless you find a clever way to punctuate it.

@@ -2,7 +2,6 @@
 title: "You're Saying It Wrong"
 date: 2015-10-24T15:39:42-08:00
 showthedate: true
-draft: true
 ---
 
 <figure>

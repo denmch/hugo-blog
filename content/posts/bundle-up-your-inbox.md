@@ -2,7 +2,6 @@
 title: "Bundle Up Your Inbox"
 date: 2016-02-13T15:41:59-08:00
 showthedate: true
-draft: true
 ---
 
 

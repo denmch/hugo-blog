@@ -1,7 +1,6 @@
 ---
 title: "Resume"
 date: 2018-01-13T14:33:00-08:00
-draft: true
 ---
 
 <main class="measure-wide center">

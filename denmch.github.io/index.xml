@@ -22,6 +22,17 @@ Kompvtor | This fake &amp;ldquo;terminal&amp;rdquo; is really a demo of a custom
     </item>
     
     <item>
+      <title>Resume</title>
+      <link>https://denmch.github.io/resume/</link>
+      <pubDate>Sat, 13 Jan 2018 14:33:00 -0800</pubDate>
+      
+      <guid>https://denmch.github.io/resume/</guid>
+      <description>Résumé Den McHenry &amp;#8212; Web Developer
+ SUMMARY Web developer with a background in graphic design, content management, and teaching. Passionate about research, web standards, usability, improving efficiency, and helping others to learn. Strengths include teamwork, problem solving, research &amp; analysis, process improvement, and communicating with non-technical audiences.
+ SKILLS / TECHNOLOGIES  Languages, Frameworks, &amp;amp; Libraries: HTML, CSS, JavaScript, C#, Foundation, React, jQuery, Node.js Content Management Systems &amp;amp; eCommerce Platforms: Wordpress [PHP], Umbraco [.</description>
+    </item>
+    
+    <item>
       <title>Number Ones — 1976</title>
       <link>https://denmch.github.io/posts/number-ones-1976/</link>
       <pubDate>Mon, 08 Jan 2018 20:14:46 -0800</pubDate>
@@ -50,6 +61,39 @@ The idea is that you list a favorite movie for each letter in your name, so here
       <guid>https://denmch.github.io/posts/people-not-be/</guid>
       <description>This is a brief list of certain types of conference attendees drawn from my very limited experience. It is, therefore, perfectly accurate and wholly unassailable in both its characterizations and its conclusions.
 That framework’s documentation isn’t here to stand up for itself. If I don’t speak up, who will? The Advocate The speaker is still in the early stages of the talk and gives a brief description of a given technology related — but not central—to the hour’s topic.</description>
+    </item>
+    
+    <item>
+      <title>Bundle Up Your Inbox</title>
+      <link>https://denmch.github.io/posts/bundle-up-your-inbox/</link>
+      <pubDate>Sat, 13 Feb 2016 15:41:59 -0800</pubDate>
+      
+      <guid>https://denmch.github.io/posts/bundle-up-your-inbox/</guid>
+      <description>Seven of the Best Newsletters for Front End Folks Baby, it’s cold outside, but we’ve got some excellent reading material for you. Photo credit: Matt Popovich
+We may never return to those halcyon days of listservs and forums that built communities and shared knowledge in the early days of the web, but newsletters are back in vogue. The best of them perform a great function in the new, massively multi-channel social web.</description>
+    </item>
+    
+    <item>
+      <title>You&#39;re Saying It Wrong</title>
+      <link>https://denmch.github.io/posts/youre-saying-it-wrong/</link>
+      <pubDate>Sat, 24 Oct 2015 15:39:42 -0800</pubDate>
+      
+      <guid>https://denmch.github.io/posts/youre-saying-it-wrong/</guid>
+      <description>Because my opinions are the best opinions While focusing on JavaScript to level up my web dev skills over the last several months, I’ve waged a silent war in my head over how everyone else seems to pronounce certain things.
+Well, here at last is my declaration, and I will countenance no disagreement and no appeals to sensible arguments or respected authorities.
+var rhymes with bear, not bar var bear = true, bar = false; tuts rhymes with boots, not butts JSON sounds like Jason, not Khe Sanh  Okay, let’s parse this … in regex/regexp, reg rhymes with leg, not ledge names ending in -ify are consciously and playfully improper.</description>
+    </item>
+    
+    <item>
+      <title>Action Movie One Liners</title>
+      <link>https://denmch.github.io/posts/action-movie-one-liners/</link>
+      <pubDate>Sat, 20 Jun 2015 15:28:01 -0800</pubDate>
+      
+      <guid>https://denmch.github.io/posts/action-movie-one-liners/</guid>
+      <description>When you&amp;rsquo;re the hero of an action movie, you&amp;rsquo;re going to find yourself killing — or at least subduing — people in increasingly novel ways. And you can&amp;rsquo;t do that unless you find a clever way to punctuate it.
+So what should you say if you ever have to stab a bad guy in the throat with a paper clip?
+I&amp;rsquo;m glad you asked, because I&amp;rsquo;ve compiled a list.
+7 Things to Say in an Action Movie when Offing a Guy with a Paper Clip to the Throat  &amp;ldquo;Get clipped!</description>
     </item>
     
   </channel>
