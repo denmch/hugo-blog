@@ -1,15 +1,10 @@
 ---
 title: "Resume"
 date: 2018-01-13T14:33:00-08:00
+description: "Den McHenry — Web Developer"
 ---
 
 <main class="measure-wide center">
-  <header>
-      <h1>Résumé</h1>
-      <p class="f3 fw3">Den McHenry &#8212; Web Developer</p>
-  </header>
-
-
   <section class="pv1 ph3">
     <h2>SUMMARY</h2>
     <p class="bl bw3 b--dark-gray pl3"><b class="fw6">Web developer</b> with a background in <b class="fw6">graphic design</b>, <b class="fw6">content management</b>, and <b class="fw6">teaching</b>. Passionate about research, <b class="fw6">web standards</b>, usability, improving efficiency, and helping others to learn. Strengths include <b class="fw6">teamwork</b>, problem solving, research & analysis, process improvement, and <b class="fw6">communicating with non-technical audiences</b>.</p>
