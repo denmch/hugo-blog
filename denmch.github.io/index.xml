@@ -6,10 +6,20 @@
     <description>Recent content on Den McHenry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jan 2018 20:14:46 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2018 15:25:16 -0800</lastBuildDate>
     
 	<atom:link href="https://denmch.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Den</title>
+      <link>https://denmch.github.io/about-den/</link>
+      <pubDate>Sat, 13 Jan 2018 15:25:16 -0800</pubDate>
+      
+      <guid>https://denmch.github.io/about-den/</guid>
+      <description>I am a Front End Web Developer with the University of Washington School of Law. I&amp;rsquo;ve also worked as a one-person design and web services shop under the name Rookish Design. Fun projects Ch-ch-changes | Convert your text among any of six different styles, including camelCase (commonly used in JavaScript) and spinal-case (AKA kebab-case, commonly used in CSS).
+Kompvtor | This fake &amp;ldquo;terminal&amp;rdquo; is really a demo of a custom caret (text cursor).</description>
+    </item>
     
     <item>
       <title>Number Ones — 1976</title>
@@ -30,6 +40,16 @@ For the year of my birth — I made the bicentennial by just a few weeks — I f
       <description>This popped up on Twitter a while back, and I realized I had to think about it a little bit. Then it got lost in drafts when I decided I&amp;rsquo;d rather write it up than get caught trying to craft a tweet like a nerd.
 The idea is that you list a favorite movie for each letter in your name, so here goes.
  Dark City (dir. Alex Proyas, 1998) Escape from New York (dir.</description>
+    </item>
+    
+    <item>
+      <title>People Not Be</title>
+      <link>https://denmch.github.io/posts/people-not-be/</link>
+      <pubDate>Mon, 12 Sep 2016 13:07:30 -0800</pubDate>
+      
+      <guid>https://denmch.github.io/posts/people-not-be/</guid>
+      <description>This is a brief list of certain types of conference attendees drawn from my very limited experience. It is, therefore, perfectly accurate and wholly unassailable in both its characterizations and its conclusions.
+That framework’s documentation isn’t here to stand up for itself. If I don’t speak up, who will? The Advocate The speaker is still in the early stages of the talk and gives a brief description of a given technology related — but not central—to the hour’s topic.</description>
     </item>
     
   </channel>
