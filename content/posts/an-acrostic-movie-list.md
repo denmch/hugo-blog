@@ -1,8 +1,8 @@
 ---
 title: "An Acrostic Movie List"
 date: 2018-01-07T16:03:14-08:00
+showthedate: true
 featured_image: /images/night-of-the-living-dead.jpg
-header_style: "background-position: center;"
 description: "My name spells trouble, and also a pretty great collection of movies."
 ---
 This popped up on Twitter a while back, and I realized I had to think about it a little bit. Then it got lost in drafts when I decided I'd rather write it up than get caught trying to craft a tweet like a nerd.

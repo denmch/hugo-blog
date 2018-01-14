@@ -4,13 +4,11 @@ title = "Den McHenry"
 theme = "ananke"
 publishdir = "denmch.github.io"
 
-
 [params]
     featured_image = "/images/apoc-header-bw.jpg"
     description = "Web Developer. Cartoonist. Dad of the Year."
-    header_style = ""
+    header_style = "background-position: center;"
     logo = "/images/rookish-crow.png"
-
     twitter = "https://twitter.com/denmch"
     github = "https://github.com/denmch"
     codepen = "https://codepen.io/denmch"
@@ -18,3 +16,21 @@ publishdir = "denmch.github.io"
     stackoverflow = "https://stackoverflow.com/users/2953245/denmch?tab=profile"
     medium = "https://medium.com/@denmch"
     spotify = "https://open.spotify.com/user/dmmchenry"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+  [menu]
+    [[menu.main]]
+    identifier = "Résumé"
+    name       = "Résumé"
+    url        = "/resume/"
+    weight     = 0
+
+    [[menu.main]]
+    identifier = "About Den"
+    name       = "About Den"
+    url        = "/about-den/"
+    weight     = 0

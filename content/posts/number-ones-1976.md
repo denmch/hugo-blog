@@ -1,9 +1,9 @@
 ---
 title: "Number Ones — 1976"
 date: 2018-01-08T20:14:46-08:00
-featured_image: /images/radio-ethiopia-1976.jpg
-header_style: "background-position: center 75%;"
-description: "Radio Ethiopia by the Patti Smith Group was the best album of the bicentennial, baby!"
+showthedate: true
+featured_image: /images/radio-ethiopia.jpg
+description: "Radio Ethiopia by the Patti Smith Group was the best album of the bicentennial"
 ---
 
 Here's a rarity: something good that came out of Twitter. A while back somebody was tweeting about the best albums of their lifetime, one for each year they've been alive. I've been thinking about for probably a few months by now, and it's been a long series of tough choices, but it's also been rewarding and helped me to discover things I can't believe I ever lived without.
