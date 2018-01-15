@@ -16,6 +16,7 @@ publishdir = "denmch.github.io"
     stackoverflow = "https://stackoverflow.com/users/2953245/denmch?tab=profile"
     medium = "https://medium.com/@denmch"
     spotify = "https://open.spotify.com/user/dmmchenry"
+    dribbble = "https://dribbble.com/denmch"
 
 [taxonomies]
   tag = "tags"
