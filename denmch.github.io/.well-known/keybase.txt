@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/denmch
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://denm.ch
+  * I am denmch (https://keybase.io/denmch) on keybase.
+  * I have a public key ASADsfwiSmt6C4848PvoVLCLEi2S0tVRxMNz4-VGaQIizQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120be0bccd17d8e6170d7d30fa58276dbee34a42e5d0662d0a4b31b3214f758f7600a",
+      "host": "keybase.io",
+      "kid": "012003b1fc224a6b7a0b8f38f0fbe854b08b122d92d2d551c4c373e3e546690222cd0a",
+      "uid": "42ad322755cf0b99dbf4cab4b16d5619",
+      "username": "denmch"
+    },
+    "merkle_root": {
+      "ctime": 1516042539,
+      "hash": "3017d319f32b95ad0a7643631fbbeb1a7314ccbba096c7eb3bffb108551ee36bf807e27c2ded7131f6d14a278e021ea24c1e129be11298be02ffe0bf7e7bd222",
+      "hash_meta": "5f2277dc1eeb8b066a98b77d7d8839aa725869aee19501975ad325302eb4f16f",
+      "seqno": 1929587
+    },
+    "service": {
+      "hostname": "denm.ch",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1516042572,
+  "expire_in": 504576000,
+  "prev": "c664cc86366c6788a274ebb8a0d36c714b272a99db20f8301f1b24625679383c",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA7H8IkpreguPOPD76FSwixItktLVUcTDc+PlRmkCIs0Kp3BheWxvYWTFAz57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYmUwYmNjZDE3ZDhlNjE3MGQ3ZDMwZmE1ODI3NmRiZWUzNGE0MmU1ZDA2NjJkMGE0YjMxYjMyMTRmNzU4Zjc2MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDNiMWZjMjI0YTZiN2EwYjhmMzhmMGZiZTg1NGIwOGIxMjJkOTJkMmQ1NTFjNGMzNzNlM2U1NDY2OTAyMjJjZDBhIiwidWlkIjoiNDJhZDMyMjc1NWNmMGI5OWRiZjRjYWI0YjE2ZDU2MTkiLCJ1c2VybmFtZSI6ImRlbm1jaCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNjA0MjUzOSwiaGFzaCI6IjMwMTdkMzE5ZjMyYjk1YWQwYTc2NDM2MzFmYmJlYjFhNzMxNGNjYmJhMDk2YzdlYjNiZmZiMTA4NTUxZWUzNmJmODA3ZTI3YzJkZWQ3MTMxZjZkMTRhMjc4ZTAyMWVhMjRjMWUxMjliZTExMjk4YmUwMmZmZTBiZjdlN2JkMjIyIiwiaGFzaF9tZXRhIjoiNWYyMjc3ZGMxZWViOGIwNjZhOThiNzdkN2Q4ODM5YWE3MjU4NjlhZWUxOTUwMTk3NWFkMzI1MzAyZWI0ZjE2ZiIsInNlcW5vIjoxOTI5NTg3fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRlbm0uY2giLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNjA0MjU3MiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJjNjY0Y2M4NjM2NmM2Nzg4YTI3NGViYjhhMGQzNmM3MTRiMjcyYTk5ZGIyMGY4MzAxZjFiMjQ2MjU2NzkzODNjIiwic2Vxbm8iOjQ2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFCMGb7aPimqRGPeuuhI3gRm6AWFUfMvPPFNpfdMjjaIfNe9Xn4KtssEHuKQxVhmDkXCD3YCvQiE6xAHLKm4nQGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBojmGvq2YQ/lhQIcZusbN5SvECttnF6DIZa9nV/wqHFqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/denmch
+
+==================================================================
