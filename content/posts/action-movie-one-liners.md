@@ -13,13 +13,13 @@ I'm glad you asked, because I've compiled a list.
 <h2>7 Things to Say in an Action Movie when Offing a Guy with a Paper Clip to the Throat</h2>
 
 <ol>
-<li>&ldquo;Get clipped!&rdquo;</li>
-<li>&ldquo;Don't get bent out of shape.&rdquo;</li>
-<li>&ldquo;Keep it together.&rdquo;</li>
-<li>Johnny Carson voice. &ldquo;Uh, I believe we have a clip. Is that right?&rdquo;</li>
-<li>Back to basics: &ldquo;Get bent!&rdquo;</li>
-<li>&ldquo;Don't get too attached.&rdquo;</li>
-<li>&ldquo;Didn't you get the memo?&rdquo;</li>
+    <li>&ldquo;Get clipped!&rdquo;</li>
+    <li>&ldquo;Don't get bent out of shape.&rdquo;</li>
+    <li>&ldquo;Keep it together.&rdquo;</li>
+    <li>Johnny Carson voice. &ldquo;Uh, I believe we have a clip. Is that right?&rdquo;</li>
+    <li>Back to basics: &ldquo;Get bent!&rdquo;</li>
+    <li>&ldquo;Don't get too attached.&rdquo;</li>
+    <li>&ldquo;Didn't you get the memo?&rdquo;</li>
 </ol>
 
 <em>Special Bonus Zinger:</em> If the bad guy works for the IT department

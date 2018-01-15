@@ -2,77 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Den McHenry</title>
-    <link>https://denmch.github.io/posts/</link>
+    <link>https://denm.ch/posts/</link>
     <description>Recent content in Posts on Den McHenry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jan 2018 20:14:46 -0800</lastBuildDate>
     
-	<atom:link href="https://denmch.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://denm.ch/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Number Ones — 1976</title>
-      <link>https://denmch.github.io/posts/number-ones-1976/</link>
+      <link>https://denm.ch/posts/number-ones-1976/</link>
       <pubDate>Mon, 08 Jan 2018 20:14:46 -0800</pubDate>
       
-      <guid>https://denmch.github.io/posts/number-ones-1976/</guid>
+      <guid>https://denm.ch/posts/number-ones-1976/</guid>
       <description>Here&amp;rsquo;s a rarity: something good that came out of Twitter. A while back somebody was tweeting about the best albums of their lifetime, one for each year they&amp;rsquo;ve been alive. I&amp;rsquo;ve been thinking about for probably a few months by now, and it&amp;rsquo;s been a long series of tough choices, but it&amp;rsquo;s also been rewarding and helped me to discover things I can&amp;rsquo;t believe I ever lived without.
 For the year of my birth — I made the bicentennial by just a few weeks — I flirted with the Ramones, and wanted so badly to go with the Modern Lovers.</description>
     </item>
     
     <item>
       <title>An Acrostic Movie List</title>
-      <link>https://denmch.github.io/posts/an-acrostic-movie-list/</link>
+      <link>https://denm.ch/posts/an-acrostic-movie-list/</link>
       <pubDate>Sun, 07 Jan 2018 16:03:14 -0800</pubDate>
       
-      <guid>https://denmch.github.io/posts/an-acrostic-movie-list/</guid>
+      <guid>https://denm.ch/posts/an-acrostic-movie-list/</guid>
       <description>This popped up on Twitter a while back, and I realized I had to think about it a little bit. Then it got lost in drafts when I decided I&amp;rsquo;d rather write it up than get caught trying to craft a tweet like a nerd.
 The idea is that you list a favorite movie for each letter in your name, so here goes.
  Dark City (dir. Alex Proyas, 1998) Escape from New York (dir.</description>
     </item>
     
     <item>
-      <title>People Not Be</title>
-      <link>https://denmch.github.io/posts/people-not-be/</link>
+      <title>People Not Be at Tech Conferences</title>
+      <link>https://denm.ch/posts/people-not-be/</link>
       <pubDate>Mon, 12 Sep 2016 13:07:30 -0800</pubDate>
       
-      <guid>https://denmch.github.io/posts/people-not-be/</guid>
+      <guid>https://denm.ch/posts/people-not-be/</guid>
       <description>This is a brief list of certain types of conference attendees drawn from my very limited experience. It is, therefore, perfectly accurate and wholly unassailable in both its characterizations and its conclusions.
-That framework’s documentation isn’t here to stand up for itself. If I don’t speak up, who will? The Advocate The speaker is still in the early stages of the talk and gives a brief description of a given technology related — but not central—to the hour’s topic.</description>
+ That framework’s documentation isn’t here to stand up for itself. If I don’t speak up, who will?  The Advocate The speaker is still in the early stages of the talk and gives a brief description of a given technology related — but not central—to the hour’s topic.</description>
     </item>
     
     <item>
-      <title>Bundle Up Your Inbox</title>
-      <link>https://denmch.github.io/posts/bundle-up-your-inbox/</link>
+      <title>Bundle Up Your Inbox to Be a Better Dev</title>
+      <link>https://denm.ch/posts/bundle-up-your-inbox/</link>
       <pubDate>Sat, 13 Feb 2016 15:41:59 -0800</pubDate>
       
-      <guid>https://denmch.github.io/posts/bundle-up-your-inbox/</guid>
-      <description>Seven of the Best Newsletters for Front End Folks Baby, it’s cold outside, but we’ve got some excellent reading material for you. Photo credit: Matt Popovich
-We may never return to those halcyon days of listservs and forums that built communities and shared knowledge in the early days of the web, but newsletters are back in vogue. The best of them perform a great function in the new, massively multi-channel social web.</description>
+      <guid>https://denm.ch/posts/bundle-up-your-inbox/</guid>
+      <description>Baby, it’s cold outside, but we’ve got some excellent reading material for you. Photo credit: Matt Popovich  We may never return to those halcyon days of listservs and forums that built communities and shared knowledge in the early days of the web, but newsletters are back in vogue. The best of them perform a great function in the new, massively multi-channel social web. They’re focused, curated by knowledgable people who care, and they both filter and distill the important stuff we’d never have time to get through on our own.</description>
+    </item>
+    
+    <item>
+      <title>Class Struggle in the 21st Century</title>
+      <link>https://denm.ch/posts/class-struggle/</link>
+      <pubDate>Tue, 29 Dec 2015 16:12:07 -0800</pubDate>
+      
+      <guid>https://denm.ch/posts/class-struggle/</guid>
+      <description>Not that kind of class struggle. I’m talking CSS classes, which — Whoa! What was that?! Wait a minute. Important message incoming.
+You need a second level heading, text in red, in 60 seconds or this bus will explode. What do you do, hotshot? WHAT DO YOU DO? Welp, it’s go time! So, if you’ve followed a Web tutorial or a popular framework I guess you go ahead and create a class called .</description>
     </item>
     
     <item>
       <title>You&#39;re Saying It Wrong</title>
-      <link>https://denmch.github.io/posts/youre-saying-it-wrong/</link>
+      <link>https://denm.ch/posts/youre-saying-it-wrong/</link>
       <pubDate>Sat, 24 Oct 2015 15:39:42 -0800</pubDate>
       
-      <guid>https://denmch.github.io/posts/youre-saying-it-wrong/</guid>
-      <description>Because my opinions are the best opinions While focusing on JavaScript to level up my web dev skills over the last several months, I’ve waged a silent war in my head over how everyone else seems to pronounce certain things.
+      <guid>https://denm.ch/posts/youre-saying-it-wrong/</guid>
+      <description>While focusing on JavaScript to level up my web dev skills over the last several months, I’ve waged a silent war in my head over how everyone else seems to pronounce certain things.
 Well, here at last is my declaration, and I will countenance no disagreement and no appeals to sensible arguments or respected authorities.
-var rhymes with bear, not bar var bear = true, bar = false; tuts rhymes with boots, not butts JSON sounds like Jason, not Khe Sanh  Okay, let’s parse this … in regex/regexp, reg rhymes with leg, not ledge names ending in -ify are consciously and playfully improper.</description>
+var rhymes with bear, not bar  var bear = true, bar = false;   tuts rhymes with boots, not butts JSON sounds like Jason, not Khe Sanh   Okay, let’s parse this …   in regex/regexp, reg rhymes with leg, not ledge names ending in -ify are consciously and playfully improper.</description>
     </item>
     
     <item>
       <title>Action Movie One Liners</title>
-      <link>https://denmch.github.io/posts/action-movie-one-liners/</link>
+      <link>https://denm.ch/posts/action-movie-one-liners/</link>
       <pubDate>Sat, 20 Jun 2015 15:28:01 -0800</pubDate>
       
-      <guid>https://denmch.github.io/posts/action-movie-one-liners/</guid>
+      <guid>https://denm.ch/posts/action-movie-one-liners/</guid>
       <description>When you&amp;rsquo;re the hero of an action movie, you&amp;rsquo;re going to find yourself killing — or at least subduing — people in increasingly novel ways. And you can&amp;rsquo;t do that unless you find a clever way to punctuate it.
 So what should you say if you ever have to stab a bad guy in the throat with a paper clip?
 I&amp;rsquo;m glad you asked, because I&amp;rsquo;ve compiled a list.
 7 Things to Say in an Action Movie when Offing a Guy with a Paper Clip to the Throat  &amp;ldquo;Get clipped!</description>
+    </item>
+    
+    <item>
+      <title>Thirteen</title>
+      <link>https://denm.ch/posts/thirteen/</link>
+      <pubDate>Sun, 25 May 2014 15:55:54 -0800</pubDate>
+      
+      <guid>https://denm.ch/posts/thirteen/</guid>
+      <description>When I was 13 my cousin I were walking along the county highway that stood in for a town center in our little suburb outside of Philly. From a McDonald&amp;rsquo;s to a 7-11, to a bowling alley, it had it all. In the McDonald&amp;rsquo;s parking lot we saw a woman cornered in a phone booth by a large, angry man. A small crowd of twenty-somethings sat comfortably nearby on parking bumpers as if they were watching Shakespeare in the Park.</description>
+    </item>
+    
+    <item>
+      <title>Excerpt From Plateau</title>
+      <link>https://denm.ch/posts/excerpt-from-plateau/</link>
+      <pubDate>Wed, 23 Oct 2013 15:40:20 -0800</pubDate>
+      
+      <guid>https://denm.ch/posts/excerpt-from-plateau/</guid>
+      <description>&amp;lsquo;Won’t be long now.’
+They sat on the bluff looking out over the town below and over past the mountains in the distance. The old station wagon a few yards away had long since gone cold as they watched the sky through so many still hours. ‘Won’t be long now’ he said again, but they were running out of darkness, and if it wasn’t now then it wasn’t going to happen.</description>
+    </item>
+    
+    <item>
+      <title>The Syntax of Panels in Narrative Comics</title>
+      <link>https://denm.ch/posts/syntax-of-panels/</link>
+      <pubDate>Mon, 23 Sep 2013 15:37:35 -0800</pubDate>
+      
+      <guid>https://denm.ch/posts/syntax-of-panels/</guid>
+      <description>It seems like a small thing, but it’s important to be able to read the medium well if you really want to command it. If you want to design your pages to solve real storytelling problems—and you should if your medium is comics—then you need to know how to read and to think intelligently about how the elements work together on the page. It’s not just about the words, and it’s definitely not about the pictures.</description>
+    </item>
+    
+    <item>
+      <title>That Time I Almost Killed a Kid</title>
+      <link>https://denm.ch/posts/that-time-i-almost-killed-a-kid/</link>
+      <pubDate>Sat, 21 Sep 2013 15:33:33 -0800</pubDate>
+      
+      <guid>https://denm.ch/posts/that-time-i-almost-killed-a-kid/</guid>
+      <description>From time to time I notice that I’m holding myself back, either because I’m afraid of fucking up or terrified of being noticed, and I start to talk to myself as if I’ve gotten over it and made all kinds of great shit, and now I’m on some podcast passing on the wisdom I’ve attained. That kind of thing repeats often enough because the little game in my head tricks a part of me into thinking that recognizing a problem is the same as fixing it.</description>
     </item>
     
   </channel>
