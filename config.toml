@@ -5,6 +5,7 @@ theme = "ananke"
 publishdir = "denmch.github.io"
 
 [params]
+    subtitle = "Web Developer"
     featured_image = "/images/apoc-header-bw.jpg"
     description = "Web Developer. Cartoonist. Dad of the Year."
     header_style = "background-position: center;"
