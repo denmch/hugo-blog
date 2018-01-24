@@ -6,6 +6,7 @@ theme = "ananke"
 publishdir = "denmch.github.io"
 
 [params]
+    text_color = "dark-gray"
     subtitle = "Web Developer"
     featured_image = "/images/apoc-header-bw.jpg"
     description = "Web Developer. Cartoonist. Dad of the Year."
