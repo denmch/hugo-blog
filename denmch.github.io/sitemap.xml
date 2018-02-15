@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://denm.ch/posts/ch-ch-changes/</loc>
+    <lastmod>2018-02-12T20:09:50-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://denm.ch/posts/hero-for-the-90s/</loc>
     <lastmod>2018-01-27T20:11:00-08:00</lastmod>
   </url>
@@ -84,13 +89,13 @@
   
   <url>
     <loc>https://denm.ch/</loc>
-    <lastmod>2018-01-27T20:11:00-08:00</lastmod>
+    <lastmod>2018-02-12T20:09:50-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://denm.ch/posts/</loc>
-    <lastmod>2018-01-27T20:11:00-08:00</lastmod>
+    <lastmod>2018-02-12T20:09:50-08:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Den McHenry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2018 20:11:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2018 20:09:50 -0800</lastBuildDate>
     
 	<atom:link href="https://denm.ch/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ch-Ch-Changes</title>
+      <link>https://denm.ch/posts/ch-ch-changes/</link>
+      <pubDate>Mon, 12 Feb 2018 20:09:50 -0800</pubDate>
+      
+      <guid>https://denm.ch/posts/ch-ch-changes/</guid>
+      <description>I hadn&amp;rsquo;t gotten around to reading Remy Sharp&amp;rsquo;s command line book yet, so I bought his terminal training course when he put it on a flash sale. One of the new things he introduced me to there was changing my terminal&amp;rsquo;s shell, and though he uses zsh (and gets to that next), he starts you with something I&amp;rsquo;ve never seen, but that&amp;rsquo;s really cool: Fish.
+First, let&amp;rsquo;s get one thing squared away: what&amp;rsquo;s a terminal and what&amp;rsquo;s a shell?</description>
+    </item>
     
     <item>
       <title>A Real Hero for the 90s</title>
