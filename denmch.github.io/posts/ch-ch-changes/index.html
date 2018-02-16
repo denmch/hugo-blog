@@ -23,7 +23,7 @@
     
 
     <meta property="og:title" content="Ch-Ch-Changes" />
-<meta property="og:description" content="Changing your shell to Fish and back." />
+<meta property="og:description" content="Changing your shell to fish and back." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://denm.ch/posts/ch-ch-changes/" />
 
@@ -44,18 +44,18 @@
 
 
 <meta itemprop="name" content="Ch-Ch-Changes">
-<meta itemprop="description" content="Changing your shell to Fish and back.">
+<meta itemprop="description" content="Changing your shell to fish and back.">
 
 
 <meta itemprop="datePublished" content="2018-02-12T20:09:50-08:00" />
 <meta itemprop="dateModified" content="2018-02-12T20:09:50-08:00" />
-<meta itemprop="wordCount" content="831">
+<meta itemprop="wordCount" content="922">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Ch-Ch-Changes"/>
-<meta name="twitter:description" content="Changing your shell to Fish and back."/>
+<meta name="twitter:description" content="Changing your shell to fish and back."/>
 
   </head>
 
@@ -159,7 +159,7 @@
             <h1 class="f2 f1-l fw4 white-90 mb0 lh-title">Ch-Ch-Changes</h1>
             
             <h2 class="fw3 f3 white-80 measure-wide-l center lh-copy mt3 mb4">
-                Changing your shell to Fish and back.
+                Changing your shell to fish and back.
             </h2>
             
         </div>
@@ -176,7 +176,7 @@
         <div class="nested-copy-line-height lh-copy f4 nested-links nested-img dark-gray">
              
 
-<p>I hadn&rsquo;t gotten around to reading Remy Sharp&rsquo;s command line book yet, so I bought his <a href="https://terminal.training/" target="_blank">terminal training course</a> when he put it on a flash sale. One of the new things he introduced me to there was changing my terminal&rsquo;s shell, and though he uses zsh (and gets to that next), he starts you with something I&rsquo;ve never seen, but that&rsquo;s really cool: Fish.</p>
+<p>I hadn&rsquo;t gotten around to reading <a href="https://abookapart.com/products/working-the-command-line" target="_blank">Remy Sharp&rsquo;s command line book</a> yet, so I bought his <a href="https://terminal.training/" target="_blank">terminal training course</a> when he put it on a flash sale. One of the new things he introduced me to there was changing my terminal&rsquo;s shell, and though he uses zsh (and gets to that next), he starts you with something I&rsquo;ve never seen, but that&rsquo;s really cool: fish.</p>
 
 <p>First, let&rsquo;s get one thing squared away: what&rsquo;s a terminal and what&rsquo;s a shell?</p>
 
@@ -198,27 +198,29 @@
 
 <p>The most common shell is bash, but there are others like ksh, zsh, and others. Notice that they tend to end with sh, for shell. And we sure do love to abbreviate things when on the command line, like ch in the title of this post. But we&rsquo;re getting to that. Shells differ in details like whether you can group commands, how variabes are set, and whether or not they support tab completion of typed commands.</p>
 
-<p>Remy introduces Fish, an exotic shell with tab completion, as a good starter shell, though he personally uses zsh. I&rsquo;d only ever used Bash, so Fish was very weird and different, and the tab completion was especially cool, like working in Visual Studio with Intellisense.</p>
+<p>Remy introduces fish, an exotic shell with tab completion, as a good starter shell, though he personally uses zsh. I&rsquo;d only ever used bash, so fish was very weird and different, and the tab completion was especially cool, like working in Visual Studio with Intellisense.</p>
 
-<p>But one issue I had was this: how do I get back to the land of Bash?</p>
+<p>But one issue I had was this: how do I get back to the land of bash?</p>
 
 <h2 id="ch-ch-changes">Ch-ch-changes</h2>
 
-<p>Following the Fish installer, you&rsquo;re told to run a certain command to switch your shell, and Remy didn&rsquo;t go into detail here, but it&rsquo;s worth looking at the command:</p>
+<p>Following the fish installer, you&rsquo;re told to run a certain command to switch your shell, and Remy didn&rsquo;t go into detail here, but it&rsquo;s worth looking at the command:</p>
 
 <p><code>chsh -s /usr/local/bin/fish</code></p>
 
 <p>The command <code>chsh</code> means &ldquo;change shell,&rdquo; just as <code>chown</code> allows you to change the owner of a file or directory, and <code>chmod</code> allows you to change the read, write, execute permissions for the current user, the group, and for others.</p>
 
-<p>Depending on your system, <code>chsh</code> will either prompt you for the location of the login shell or open a configuration file in vim where you can edit information like your full name, office location, phone numbers, and, most importantly, the location of your preferred shell.</p>
+<p>The <code>-s</code> option lets you enter that location without any additional prompting or file opening. So the command above says, &ldquo;change my shell to the shell in /usr/local/bin/fish.&rdquo;</p>
 
-<p>The <code>-s</code> option lets you enter that location without any additional prompting or opening. So the command above says, &ldquo;change my shell to the shell in /usr/local/bin/fish.&rdquo;</p>
+<p><code>chsh</code> actually calls the same program as two other <code>ch</code>-prefixed commands: <code>chfn</code>, or &ldquo;change finger,&rdquo; and <code>chpass</code>, or &ldquo;change password.&rdquo; This program allows you to change user database information, like your full name, office location, phone numbers, and, most importantly for this purpose, for the location of your preferred shell, and it doesn&rsquo;t matter which you use. it&rsquo;s just easier to remember that <code>chsh</code> is for changing the shell, and if you want to get it done without editing a file in vim, throw it up in one line with the <code>-s</code> option and the shell location.</p>
 
-<p>If you want to change back, you just need to know the location of bash, which should be simple:</p>
+<p>So once you&rsquo;ve switched to fish, if you want to change back, you just need to know the location of bash, which should be simple:</p>
 
 <p><code>chsh -s /bin/bash</code></p>
 
-<p>So that&rsquo;s that: a long-winded way to get around th switching back to Bash from Fish. So now I know more about it, and maybe you do, too.</p>
+<p>And from there, you can try others in the same fashion.</p>
+
+<p>So that&rsquo;s that: a long-winded way to get around to switching back to bash from fish. I&rsquo;ve always found it helpful to dig into what the commands actually means to understand them and retain what they do. So now I know more about it, and maybe you do, too.</p>
 
         </div>
     </article>
