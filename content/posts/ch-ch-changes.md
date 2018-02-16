@@ -3,10 +3,10 @@ title: "Ch-Ch-Changes"
 date: 2018-02-12T20:09:50-08:00
 showthedate: true
 featured_image: /images/vigoda-stardust.jpg
-description: "Changing your shell to Fish and back."
+description: "Changing your shell to fish and back."
 ---
 
-I hadn't gotten around to reading Remy Sharp's command line book yet, so I bought his <a href="https://terminal.training/" target="_blank">terminal training course</a> when he put it on a flash sale. One of the new things he introduced me to there was changing my terminal's shell, and though he uses zsh (and gets to that next), he starts you with something I've never seen, but that's really cool: Fish.
+I hadn't gotten around to reading <a href="https://abookapart.com/products/working-the-command-line" target="_blank">Remy Sharp's command line book</a> yet, so I bought his <a href="https://terminal.training/" target="_blank">terminal training course</a> when he put it on a flash sale. One of the new things he introduced me to there was changing my terminal's shell, and though he uses zsh (and gets to that next), he starts you with something I've never seen, but that's really cool: fish.
 
 First, let's get one thing squared away: what's a terminal and what's a shell?
 
@@ -28,24 +28,26 @@ The terminal is now the application that gets you talking to the machine — a p
 
 The most common shell is bash, but there are others like ksh, zsh, and others. Notice that they tend to end with sh, for shell. And we sure do love to abbreviate things when on the command line, like ch in the title of this post. But we're getting to that. Shells differ in details like whether you can group commands, how variabes are set, and whether or not they support tab completion of typed commands.
 
-Remy introduces Fish, an exotic shell with tab completion, as a good starter shell, though he personally uses zsh. I'd only ever used Bash, so Fish was very weird and different, and the tab completion was especially cool, like working in Visual Studio with Intellisense.
+Remy introduces fish, an exotic shell with tab completion, as a good starter shell, though he personally uses zsh. I'd only ever used bash, so fish was very weird and different, and the tab completion was especially cool, like working in Visual Studio with Intellisense.
 
-But one issue I had was this: how do I get back to the land of Bash?
+But one issue I had was this: how do I get back to the land of bash?
 
 ## Ch-ch-changes
 
-Following the Fish installer, you're told to run a certain command to switch your shell, and Remy didn't go into detail here, but it's worth looking at the command:
+Following the fish installer, you're told to run a certain command to switch your shell, and Remy didn't go into detail here, but it's worth looking at the command:
 
 `chsh -s /usr/local/bin/fish`
 
 The command `chsh` means "change shell," just as `chown` allows you to change the owner of a file or directory, and `chmod` allows you to change the read, write, execute permissions for the current user, the group, and for others.
 
-Depending on your system, `chsh` will either prompt you for the location of the login shell or open a configuration file in vim where you can edit information like your full name, office location, phone numbers, and, most importantly, the location of your preferred shell.
+The `-s` option lets you enter that location without any additional prompting or file opening. So the command above says, "change my shell to the shell in /usr/local/bin/fish."
 
-The `-s` option lets you enter that location without any additional prompting or opening. So the command above says, "change my shell to the shell in /usr/local/bin/fish."
+`chsh` actually calls the same program as two other `ch`-prefixed commands: `chfn`, or "change finger," and `chpass`, or "change password." This program allows you to change user database information, like your full name, office location, phone numbers, and, most importantly for this purpose, for the location of your preferred shell, and it doesn't matter which you use. it's just easier to remember that `chsh` is for changing the shell, and if you want to get it done without editing a file in vim, throw it up in one line with the `-s` option and the shell location.
 
-If you want to change back, you just need to know the location of bash, which should be simple:
+So once you've switched to fish, if you want to change back, you just need to know the location of bash, which should be simple:
 
 `chsh -s /bin/bash`
 
-So that's that: a long-winded way to get around th switching back to Bash from Fish. So now I know more about it, and maybe you do, too.
+And from there, you can try others in the same fashion.
+
+So that's that: a long-winded way to get around to switching back to bash from fish. I've always found it helpful to dig into what the commands actually means to understand them and retain what they do. So now I know more about it, and maybe you do, too.
