@@ -3,7 +3,7 @@ baseURL = "https://denm.ch"
 languageCode = "en-us"
 title = "Den McHenry"
 theme = "ananke"
-publishdir = "denmch.github.io"
+publishdir = "public"
 
 [params]
     text_color = "dark-gray"
