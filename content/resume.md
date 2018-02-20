@@ -7,7 +7,7 @@ description: "Den McHenry — Web Developer"
 <main class="measure-wide center">
   <section class="pv1 ph3">
     <h2>SUMMARY</h2>
-    <p class="bl bw3 b--dark-gray pl3"><b class="fw6">Web developer</b> with a background in <b class="fw6">graphic design</b>, <b class="fw6">content management</b>, and <b class="fw6">teaching</b>. Passionate about research, <b class="fw6">web standards</b>, usability, improving efficiency, and helping others to learn. Strengths include <b class="fw6">teamwork</b>, problem solving, research & analysis, process improvement, and <b class="fw6">communicating with non-technical audiences</b>.</p>
+    <p class="bl bw3 b--dark-gray pl3"><mark class="fw6">Web developer</mark> with a background in <mark class="fw6">graphic design</mark>, <mark class="fw6">content management</mark>, and <mark class="fw6">teaching</mark>. Passionate about research, <mark class="fw6">web standards</mark>, usability, improving efficiency, and helping others to learn. Strengths include <mark class="fw6">teamwork</mark>, problem solving, research & analysis, process improvement, and <mark class="fw6">communicating with non-technical audiences</mark>.</p>
   </section>
 
   <section class="bg-white pv1 ph3">

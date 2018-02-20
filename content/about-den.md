@@ -3,7 +3,7 @@ title: "About Den"
 date: 2018-01-13T15:25:16-08:00
 ---
 
-I am a <mark>Front End Web Developer</mark> with the University of Washington School of Law. I've also worked as a one-person design and web services shop under the name <a href="http://rookishdesign.com/"><strong>Rookish Design</strong></a>, and before that I taught high school Latin for several years.
+I am a <strong>Front End Web Developer</strong> with the University of Washington School of Law. I've also worked as a one-person design and web services shop under the name <a href="http://rookishdesign.com/"><strong>Rookish Design</strong></a>, and before that I taught high school Latin for several years.
 
 <h3>Fun projects</h3>
 <a href="http://Ch-ch-changes.com">Ch-ch-changes</a> | Convert your text among any of six different styles, including camelCase (commonly used in JavaScript) and spinal-case (AKA kebab-case, commonly used in CSS).
