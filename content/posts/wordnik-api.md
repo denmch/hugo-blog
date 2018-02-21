@@ -14,7 +14,7 @@ One of the really cool things you can do here is reference environment variables
 
 If you don't know <a href="http://wordnik.com/" target="_blank">Wordnik</a>, you should check it out. It's a great site, and when my confirmation email didn't come through Erin McKean quickly responded herself and activted my account, which felt pretty cool.
 
-The function works like a shell command and can take an argument, which is represented within the function as `$@`.
+The function works like a shell command and can take an argument, which is represented within the function as `$@`. This grabs any and all positional parameters, e.g., if the command takes three parameters, they'd be referenced as `$1`, `$2, `$3`. So `$@` just takes one after the other and passes them all in.
 
 We run `curl` with a `--silent` option. If you were typing this a lot on the command line, it'd be faster to use `-s`, but for the purposes of a readable gist, it seems beneficial to type out the option, explaining clearly that we want our `curl` output to be silent, i.e., to not show us the progress bar, etc. To get a result, you need to add your Wordnik API key (I've added mine as an environment variable sourced in my `.zshrc` file).
 
