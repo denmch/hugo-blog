@@ -26,7 +26,7 @@ The terminal is now the application that gets you talking to the machine — a p
 
 ## z sells z shells by the z shore
 
-The most common shell is bash, but there are others like ksh, zsh, and others. Notice that they tend to end with sh, for shell. And we sure do love to abbreviate things when on the command line, like ch in the title of this post. But we're getting to that. Shells differ in details like whether you can group commands, how variabes are set, and whether or not they support tab completion of typed commands.
+The most common shell is bash, but there are others like ksh, zsh, and others. Notice that they tend to end with sh, for shell. And we sure do love to abbreviate things when on the command line, like ch in the title of this post. But we're getting to that. Shells differ in details like whether you can group commands, how variables are set, and whether or not they support tab completion of typed commands.
 
 Remy introduces fish, an exotic shell with tab completion, as a good starter shell, though he personally uses zsh. I'd only ever used bash, so fish was very weird and different, and the tab completion was especially cool, like working in Visual Studio with Intellisense.
 
