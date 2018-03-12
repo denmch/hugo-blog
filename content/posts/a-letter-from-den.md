@@ -16,4 +16,4 @@ The inaugural offering, that went out to me and almost no one else, is something
     <img src="/images/weird-stuff.jpg" alt="A cartoonish self-portrait of my younger self from the nineties, looking surprised as the band names the Grifters, Pavement, and Polvo surround my head.">
 </figure>
 
-The newsletter is called A Letter from Den, and the first note is titled <a href="">In praise of weird stuff</a>. You can read it in the browser, and if it seems worthwhile, you can also <a href="https://tinyletter.com/denmch">sign up for more like it in the future</a>.
+The newsletter is called A Letter from Den, and the first note is titled <a href="">In praise of weird stuff</a>. You can read it in the browser, and if it seems worthwhile, you can also <a href="https://tinyletter.com/denmch">sign up for more like it in the future</a>. 
