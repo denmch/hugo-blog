@@ -3,6 +3,7 @@ title: "A Letter From Den"
 date: 2018-03-12T13:05:19-07:00
 showthedate: true
 featured_image: /images/weird-stuff.jpg
+image: /images/weird-stuff.jpg
 ---
 
 I've decided to start writing letters to myself with a little drawing. I don't expect anyone to subscribe, but if they did, I guess that would be pretty cool. I'm using TinyLetter, and will be doing something every week.
