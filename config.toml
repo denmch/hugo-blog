@@ -18,8 +18,10 @@ publishdir = "public"
     linkedin = "https://www.linkedin.com/in/denmch/"
     stackoverflow = "https://stackoverflow.com/users/2953245/denmch?tab=profile"
     medium = "https://medium.com/@denmch"
+    dev = "https://dev.to/denmch"
     spotify = "https://open.spotify.com/user/dmmchenry"
     dribbble = "https://dribbble.com/denmch"
+    instagram = "https://www.instagram.com/denmch/"
 
 [taxonomies]
   tag = "tags"

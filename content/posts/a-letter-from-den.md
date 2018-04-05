@@ -3,10 +3,9 @@ title: "A Letter From Den"
 date: 2018-03-12T13:05:19-07:00
 showthedate: true
 featured_image: /images/weird-stuff.jpg
-image: /images/weird-stuff.jpg
 ---
 
-I've decided to start writing letters to myself with a little drawing in each. I don't expect anyone to subscribe, but if they did, I guess that would be pretty cool. I'm using TinyLetter, and will be doing something every week.
+I've decided to start writing letters to myself with a simple illustration of some kind in each. I don't expect anyone to subscribe, but if they did, I guess that would be pretty cool. I'm using TinyLetter, and will be doing something every week.
 
 The main idea is to do something new for myself in a simple format: a short letter with an illustration. I'll aim to do it weekly, and use it as a way to anchor the other things I want and need to be doing. It's kind of a metronome, ticking slowly &#8212; very slowly. But each time it ticks, it's another week that has or hasn't seen the completion of this or that other thing.
 
